@@ -117,10 +117,10 @@ We would use the opportunity to test Slot Rescue with more independent clinics, 
 ## Before submitting
 Replace or complete the team-specific facts below; do not claim interviews, pilots, metrics, or prior work that have not happened.
 
-- **Founder names and roles:** [Add names and relevant experience]
-- **Team size:** [Add number]
-- **Current project status:** [Idea / prototype / live tests — state accurately]
-- **Customer evidence so far:** [Add real interviews, observations, or “not yet interviewed”]
-- **Demo or project link:** [Add if available]
-- **Contact email and phone:** [Add]
-- **Availability for the Nov 5–7 interview and Nov 20 finale:** [Confirm accurately]
+- **Founder names and roles:** Raksha - Student
+- **Team size:** solo
+- **Current project status:** live tests — state accurately
+- **Customer evidence so far:** Not interviewed
+- **Demo or project link:** 
+- **Contact email and phone:** rakshanayak40@gmail.com - 6364402821
+- **Availability for the Nov 5–7 interview and Nov 20 finale:** yes
